@@ -1,0 +1,41 @@
+.Sign {
+    margin-top: 12%;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 26px;
+    color: #3f51b5;
+}
+h6 {
+    margin-top: -5px;
+}
+.login__container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    box-shadow: 10px 10px 15px 10px rgb(219, 218, 218);
+    border-radius: 15%;
+}
+
+.MuiIcon-colorPrimary {
+    color: #3f51b5;
+    margin-left: 19%;
+    position: absolute;
+    margin-top: -35px;
+}
+.login__container .MuiFormControl-root {
+    border: 0;
+    margin: 0;
+    display: inline-flex;
+    padding: 0;
+    position: relative;
+    min-width: 0;
+    margin-top: 36px;
+    flex-direction: column;
+    vertical-align: top;
+}
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    margin-right: 10px;
+}
